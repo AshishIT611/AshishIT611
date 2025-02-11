@@ -50,5 +50,5 @@ I'm currently focused on expanding my knowledge in:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshishIT611&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AshishIT611&theme=radical)
+
 
